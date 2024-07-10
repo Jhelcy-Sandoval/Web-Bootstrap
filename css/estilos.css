@@ -1,0 +1,28 @@
+body{
+  background: rgb(84, 96, 106);
+}
+
+.item{
+  color: black;
+}
+
+.item:hover{
+  background-color: rgb(214, 216, 216);
+}
+
+article, .row{
+  padding:2% 5%;
+}
+
+.navbar{
+  background: rgb(0, 19, 33)!important;
+}
+
+.menu{
+  padding-top: 2%;
+}
+
+.poster{
+  background-color: rgb(112, 44, 249)!important;
+  height: 20%;
+}
